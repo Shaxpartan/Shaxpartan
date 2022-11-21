@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CSS, PYTHON**
 
-- 📫 How to reach me **shaxpartan@gmail.ckm**
+- 📫 How to reach me **shaxpartan@gmail.com**
 
 <p align="left">
 </p>
